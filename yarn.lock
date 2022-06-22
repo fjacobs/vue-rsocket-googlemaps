@@ -6242,19 +6242,19 @@ rsocket-core@0.0.18, rsocket-core@^0.0.18:
     rsocket-flowable "^0.0.14"
     rsocket-types "^0.0.16"
 
-rsocket-flowable@0.0.18:
-  version "0.1.0-alpha.0ddeeafe"
-  resolved "https://registry.yarnpkg.com/rsocket-flowable/-/rsocket-flowable-0.1.0-alpha.0ddeeafe.tgz#33996787bfa73a432f2eaa41378b6eba4a5a5e0d"
-  integrity sha512-WxOAMshtTPr4vqG27/GVYcWU0EMejb6/fIIegBRb0PVy6opX1IvlSqYcpUH5OICekv9gV27KqrJBisXIynLq4g==
-  dependencies:
-    fbjs "^0.8.12"
-
 rsocket-flowable@^0.0.14:
   version "0.0.14"
   resolved "https://registry.yarnpkg.com/rsocket-flowable/-/rsocket-flowable-0.0.14.tgz#5195dbd2972a98afe4a4ee082904fbc5890bc630"
   integrity sha512-vK85yDj0DRpoTV1jQZF0JmSuQz4qj2DHMyV744I9h/8AP5jVJhuN1D+ArKQvP0VWXjFoRK23ObVMnoSdSkk4pg==
   dependencies:
     fbjs "^1.0.0"
+
+rsocket-flowable@^0.1.0-alpha.0ddeeafe:
+  version "0.1.0-alpha.0ddeeafe"
+  resolved "https://registry.yarnpkg.com/rsocket-flowable/-/rsocket-flowable-0.1.0-alpha.0ddeeafe.tgz#33996787bfa73a432f2eaa41378b6eba4a5a5e0d"
+  integrity sha512-WxOAMshtTPr4vqG27/GVYcWU0EMejb6/fIIegBRb0PVy6opX1IvlSqYcpUH5OICekv9gV27KqrJBisXIynLq4g==
+  dependencies:
+    fbjs "^0.8.12"
 
 rsocket-types@^0.0.16:
   version "0.0.16"
@@ -6455,9 +6455,9 @@ shebang-regex@^3.0.0:
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
 
 shell-quote@^1.6.1:
-  version "1.7.2"
-  resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.2.tgz#67a7d02c76c9da24f99d20808fcaded0e0e04be2"
-  integrity sha512-mRz/m/JVscCrkMyPqHc/bczi3OQHkLTqXHEFu0zDhK/qfv3UcOA4SVmRCLmos4bhjr9ekVQubj/R7waKapmiQg==
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.3.tgz#aa40edac170445b9a431e17bb62c0b881b9c4123"
+  integrity sha512-Vpfqwm4EnqGdlsBFNmHhxhElJYrdfcxPThu+ryKS5J8L/fhAwLazFZtq+S+TWZ9ANj2piSQLGj6NQg+lKPmxrw==
 
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
